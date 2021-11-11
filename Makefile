@@ -1,4 +1,4 @@
-ZOOKEEPRER_VERSION ?= 3.4.14
+ZOOKEEPRER_VERSION ?= 3.4.13
 
 prepare:
 	wget "https://archive.apache.org/dist/zookeeper/zookeeper-$(ZOOKEEPRER_VERSION)/zookeeper-$(ZOOKEEPRER_VERSION)-bin.tar.gz"
